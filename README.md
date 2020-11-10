@@ -8,7 +8,7 @@ Initial image:
 
 Result:
 
-<img src="https://raw.githubusercontent.com/blu-ray/Optical-Music-Recognition/main/res.png" width="60%">
+<img src="https://raw.githubusercontent.com/blu-ray/Optical-Music-Recognition/main/res.jpg" width="60%">
 
 
 just run the main.py and choose the sheet music image to process.
